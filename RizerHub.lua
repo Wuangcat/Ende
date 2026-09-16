@@ -38,7 +38,7 @@ local BUTTON_POSITION
 if UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled then
 
     SIZE = 48
-    BUTTON_POSITION = UDim2.new(0, 20, 0.1, -6)
+    BUTTON_POSITION = UDim2.new(0, 20, 0.1, 95)
 
 -- 💻 PC
 else
